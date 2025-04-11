@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-This project showcases the application of advanced machine learning techniques to address a critical business problem: the detection of account sharing. By leveraging Python and its robust ecosystem of data science libraries, we developed a predictive model capable of identifying instances of unauthorized credential sharing. This initiative demonstrates a comprehensive understanding of the machine learning lifecycle, from data preprocessing and feature engineering to model evaluation and optimization. The model's performance, as evidenced by its high accuracy and AUC score, underscores its potential for real-world deployment in enhancing security and revenue protection for subscription-based services.
+This project showcases the application of advanced machine learning techniques to address a critical business problem: the detection of account sharing. By leveraging Python and its robust ecosystem of data science libraries, I developed a predictive model capable of identifying instances of unauthorized credential sharing. This initiative demonstrates a comprehensive understanding of the machine learning lifecycle, from data preprocessing and feature engineering to model evaluation and optimization. The model's performance, as evidenced by its high accuracy and AUC score, underscores its potential for real-world deployment in enhancing security and revenue protection for subscription-based services.
 
 ## Business Problem and Use Case
 

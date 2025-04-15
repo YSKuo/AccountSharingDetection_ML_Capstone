@@ -4,7 +4,7 @@
 
 This project showcases the application of advanced machine learning techniques to address a critical business problem: the detection of account sharing. By leveraging Python and its robust ecosystem of data science libraries, I developed a predictive model capable of identifying instances of unauthorized credential sharing. This initiative demonstrates a comprehensive understanding of the machine learning lifecycle, from data preprocessing and feature engineering to model evaluation and optimization. The model's performance, as evidenced by its high accuracy and AUC score, underscores its potential for real-world deployment in enhancing security and revenue protection for subscription-based services.
 
-## Authors
+## Author
 - Yan-Sheng (Arsene) Kuo &nbsp;<a href="https://www.linkedin.com/in/yanshengkuo/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="height: 1em; width:auto;"/></a> &nbsp; <a href="https://github.com/YSKuo"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" style="height: 1em; width: auto;"/></a>
 
 ## Business Problem and Use Case
